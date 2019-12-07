@@ -13,3 +13,8 @@ Data Preprocessing
 Modeling  
 - Linear Regression
 
+--- 
+Files:  
+`output.html` is the detailed EDA report for the titanic dataset.  
+`titanic-pipeline` is the pipeline for kaggle to submit.  
+`dataset` folder contains the datasets for this projects.  
