@@ -1,5 +1,8 @@
 # kaggle-titanic
 
+Goal: predict if some passengers are survived.
+
+
 First attempt is Regresssion.
 
 Process:  
@@ -11,7 +14,7 @@ Data Preprocessing
 
 
 Modeling  
-- Linear Regression
+- Logistic Regression
 
 --- 
 Files:  
